@@ -1,7 +1,7 @@
 <div align="center">
     <h1 align="center">React Media Query</h1>
     <p align="center">
-        A lightweight react package to handle media queries directly into your reactcomponent
+        A lightweight react package to handle media queries directly into your react component
     </p>
     <br/>
   
