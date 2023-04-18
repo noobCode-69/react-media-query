@@ -1,15 +1,13 @@
 <div align="center">
-    <h1 align="center">React Loading Skeleton</h1>
+    <h1 align="center">React Media Query</h1>
     <p align="center">
-        Make beautiful, animated loading skeletons that automatically adapt to your app.
+        A lightweight react package to handle media queries directly into your component
     </p>
     <br/>
   
 </div>
 
 ## Basic Usage
-
-Install via one of:
 
 ```bash
 npm i @so__hell/react-media-query
